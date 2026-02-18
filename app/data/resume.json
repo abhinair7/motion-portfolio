@@ -1,0 +1,89 @@
+{
+    "personalInfo": {
+        "name": "ABHISHEK VINOD NAIR",
+        "location": "Boston, MA",
+        "phone": "+1 (857) 339-9122",
+        "email": "a.nair002@umb.edu",
+        "linkedin": "https://www.linkedin.com/in/abhishek-nair-b64469196/",
+        "github": "https://github.com/abhinair7"
+    },
+    "summary": "Results-driven Data & Business Analyst with 3+ years of experience in stakeholder management, Agile delivery, and data-driven decision making. Proven ability to translate business requirements into actionable insights, KPI frameworks, and cross-functional solutions across enterprise and startup environments.",
+    "education": [
+        {
+            "institution": "UMass Boston, Boston, USA",
+            "degree": "Master's in Business Analytics",
+            "date": "August 2024 – May 2026",
+            "gpa": "4.0",
+            "coursework": "Data Mining Applications & Data Warehousing, Database Management System, Management Decision Models, Multivariate Regression Analysis, Business Intelligence, Business Programming, Data Visualization"
+        },
+        {
+            "institution": "Sri Krishna College of Technology (Anna University), Coimbatore, India",
+            "degree": "Bachelor of Engineering In Computer Science",
+            "date": "August 2017 – April 2021",
+            "coursework": "Machine Learning & Predictive Analytics, Data Structures, Artificial Intelligence, Computer Networks, Data Analytics, Visualization and Cloud, Mobile Apps Development, Testing & Quality Assurance, Project Management & Agile Methodologies"
+        }
+    ],
+    "skills": {
+        "Gen AI & Programming": "Python, R, SQL, Java, JavaScript, Firebase, Claude, LLMs, Prompt Engineering, OpenAI API, Anthropic API",
+        "Cloud & Data Services": "AWS (Athena, Redshift, S3), Azure (Synapse, Azure ML), Snowflake, Google Cloud, Databricks, Apache Spark",
+        "Data Visualization & BI": "Power BI, Tableau, Google Data Studio, Microsoft Fabric, Qlik View",
+        "Forecasting & Analytics": "Predictive Modeling, Statistical Analysis, Time Series Forecasting, Regression, A/B Testing, KPI Development, EDA",
+        "Machine Learning Frameworks": "TensorFlow, PyTorch, Keras, scikit-learn, Hugging Face Transformers, XGBoost, NLP",
+        "Business & Project Methodologies": "Agile, Scrum, BRD/FRD, UAT, Stakeholder Management, Product Roadmap, Backlog Grooming, MoSCoW, RACI, JIRA, Confluence"
+    },
+    "experience": [
+        {
+            "company": "UMass Boston",
+            "role": "Graduate Assistant – MSIS Department",
+            "date": "January 2026 – May 2026",
+            "location": "Boston, MA",
+            "bullets": [
+                "Managed end-to-end delivery of 8+ lab modules, coordinating timelines, content development, and performance tracking for 50+ graduate students.",
+                "Defined learning objectives, developed assessment criteria, and tracked KPIs to measure student proficiency improvements by 35%."
+            ]
+        },
+        {
+            "company": "Cypress Atlantic",
+            "role": "Business Analyst Intern",
+            "date": "June 2024 – August 2024",
+            "location": "Boston, MA",
+            "bullets": [
+                "Translated business needs into product specifications for an AI powered restaurant automation platform, improving order accuracy platform now resolves 95% of common customer requests automatically.",
+                "Built Power BI dashboards for sales/inventory forecasting using time series analysis, reducing food waste by 25% ($15,000+ estimated annual savings) through data-driven purchasing decisions."
+            ]
+        },
+        {
+            "company": "Infosys",
+            "role": "Digital Specialist Engineer",
+            "date": "July 2022 – May 2024",
+            "location": "Chennai, India",
+            "bullets": [
+                "Gathered and documented business requirements (BRD/FRD) for 3 major enterprise applications, achieving 95% stakeholder alignment and improving customer satisfaction by 15%.",
+                "Optimized SQL queries and stored procedures with DBeaver, improving database performance by 40% and reducing customer-facing application response times by 20%.",
+                "Facilitated Agile sprint ceremonies including backlog grooming, sprint planning, and UAT sign-off, maintaining 98% on-time project delivery across cross-functional teams.",
+                "Led Jenkins CI/CD pipeline deployments, cutting deployment times by 50% and attaining 99% success rate while ensuring alignment with project timelines."
+            ]
+        },
+        {
+            "company": "Reliance Jio",
+            "role": "Graduate Engineer Trainee",
+            "date": "February 2022 – July 2022",
+            "location": "Mumbai, India",
+            "bullets": [
+                "Gathered and documented business requirements from key stakeholders, producing BRDs and use case documentation ensuring 100% alignment with compliance objectives.",
+                "Developed responsive Angular web interfaces using HTML, CSS, and TypeScript, boosting user engagement by 25% through enhanced UX design.",
+                "Facilitated daily Scrum meetings for 10+ cross-functional team members (engineers, QA, product managers), accelerating issue resolution and reducing deployment times by 4x."
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "Inventory and Sales Forecasting Dashboard (Power BI Pro, Firebase)",
+            "description": "Engineered interactive Power BI Pro dashboard integrated with Firebase for real-time sales/inventory forecasting using historical and seasonal data, automating ETL flows via Cloud Functions and improving operational visibility by 35%."
+        },
+        {
+            "name": "IMDB Movie Review Sentiment Analysis (PyTorch)",
+            "description": "Pre-processed and tokenized 50K IMDB reviews with TorchText, then trained a two-layer LSTM classifier using PyTorch embedding layers, achieving 86% accuracy on test data for sentiment classification."
+        }
+    ]
+}
