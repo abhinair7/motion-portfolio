@@ -21,7 +21,12 @@
 
 @layer base {
   body {
-    @apply bg-black text-white antialiased selection:bg-white/20;
+    @apply text-white antialiased selection:bg-white/20;
+    background-image: url('/images/portrait.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
     font-feature-settings: "rlig" 1, "calt" 1;
   }
 }
